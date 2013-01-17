@@ -404,6 +404,16 @@ Yahoo BOSS is **not a free service**. As of November 17, 2012 Yahoo no longer of
 * **Terms of Service**: ?
 * **Limitations**: ?
 
+#### Baidu (`:baidu`)
+
+* **API key**: required
+* **Quota**: unlimited
+* **Region**: China
+* **SSL support**: no
+* **Languages**: Chinese
+* **Documentation**: http://developer.baidu.com/map/
+* **Terms of Service**: ?
+* **Limitations**: ?
 
 Caching
 -------
